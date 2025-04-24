@@ -39,6 +39,7 @@ deleteBtn.addEventListener("dblclick", function() {
     render(myLeads)
 })
 
+//Input button event listener
 inputBtn.addEventListener("click", function() {
     myLeads.push(inputEl.value)
     inputEl.value = ""
