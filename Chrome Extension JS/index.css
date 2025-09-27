@@ -9,7 +9,7 @@ input {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
-    border: 1px solid #5f9349;
+    border: 1px solid #5f9348;
     margin-bottom: 4px;
 }
 
@@ -39,5 +39,6 @@ li {
 a {
     color: #5f9341;
 }
+
 
 
